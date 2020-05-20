@@ -1,0 +1,5 @@
+MongoDB
+U: user001
+P: SDM5cfpD2OTnj3ip
+
+mongodb+srv://user001:<password>@cluster0-hwk5l.mongodb.net/test?retryWrites=true&w=majority
